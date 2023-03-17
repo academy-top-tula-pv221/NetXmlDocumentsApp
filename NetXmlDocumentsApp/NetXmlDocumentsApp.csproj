@@ -9,7 +9,7 @@
 
   <ItemGroup>
     <Reference Include="ExampleClassLibrary">
-      <HintPath>..\..\ExampleClassLibrary\ExampleClassLibrary\bin\Debug\net6.0\ExampleClassLibrary.dll</HintPath>
+      <HintPath>..\..\..\ExampleClassLibrary\ExampleClassLibrary\bin\Debug\net6.0\ExampleClassLibrary.dll</HintPath>
     </Reference>
   </ItemGroup>
 
